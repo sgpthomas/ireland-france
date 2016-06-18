@@ -3,6 +3,7 @@ layout: post
 title: Welcome to Dublin!
 description: "Arrival in Dublin and details of our first day."
 modified: 2016-06-15
+author: Polly Peacock
 ---
 
 We made it to Dublin, Ireland but just by the skin of our teeth. Our flight from Reno to Chicago was delayed by almost an hour, and since we only had an hour between flights, we were really sweating it. It turned out that they held the plane for us! It was such a relief to join up with Sam and Clara who were on board waiting for us (as was everyone else.) 

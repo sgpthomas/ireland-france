@@ -3,6 +3,7 @@ layout: post
 title: Thursday in Dublin
 description: "Exploring Dublin."
 modified: 2016-06-16
+author: Polly Peacock
 ---
 
 Have we really only been here for two days? It feels like a lot longer--things are looking familiar. If I had to guess I'd say it was January in San Francisco or Seattle--damp and cold but not wet. However, the weather doesn't stop the bikers at all. Hundreds of them going right along with the thousands of very large buses, cars and sleek looking light rail. Without the really impressive navigating skills of our teenage grandchildren, Dick and I might still be out trying to find our way back to our AirBnB. They do so many difficult tasks so easily and quickly; like cooking dinner in a closet sized kitchen with no window, not even one skillet, and only two tiny saucepans and one huge pasta pot. Guess what we had for dinner? 

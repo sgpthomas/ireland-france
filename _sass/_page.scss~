@@ -24,10 +24,6 @@ body {
 			border-bottom-style: solid;
 		}
 	}
-
-	p > img {
-		align-items: center;
-	}
 }
 
 // Entry Header
