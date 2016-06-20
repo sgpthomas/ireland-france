@@ -24,6 +24,10 @@ body {
 			border-bottom-style: solid;
 		}
 	}
+
+	p > img {
+		align-items: center;
+	}
 }
 
 // Entry Header
@@ -172,9 +176,11 @@ body {
 .entry-meta {
 	@include font-rem(12);
 	text-transform: uppercase;
-	color: lighten($base-color,60);
+	// color: lighten($base-color,60);
+    color: lighten($base-color,20);
 	a {
-		color: lighten($base-color,60);
+		# color: lighten($base-color,60);
+        color: lighten($base-color,20)
 	}
 	.vcard {
 		&:before {
