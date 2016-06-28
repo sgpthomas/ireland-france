@@ -13,18 +13,18 @@ If Dublin is the city of colorful doors, then Kenmare is the city of colored bui
 ### Sam Thomas
 Old stone walls, houses, churches, and fences are everywhere and beautiful. They have been here so long that they have almost became another part of the scenery. Patches of lichen and moss and beautiful little flowers cling to these walls that have become such an essential part of the Irish landscape. It’s the season for foxgloves here. Their tall stocks decorated with purple cups provide a beautiful contrast to the greenery here. We were worried about finding a peaceful place in touristy Kenmare, but because of another one of our chance encounters with a local Irishman, we were directed to a beautiful and abandoned valley. Besides the plentiful sheep, we were the only living souls around.
 
-![image1](images/622_1.jpg)
+![image1](/images/622_1.jpg)
 
-![image2](images/622_2.jpg)
+![image2](/images/622_2.jpg)
 
-![image3](images/622_3.jpg)
+![image3](/images/622_3.jpg)
 
-![image4](images/622_4.jpg)
+![image4](/images/622_4.jpg)
 
-![image5](images/622_5.jpg)
+![image5](/images/622_5.jpg)
 
-![image6](images/622_6.jpg)
+![image6](/images/622_6.jpg)
 
-![image7](images/622_7.jpg)
+![image7](/images/622_7.jpg)
 
-![image8](images/622_8.jpg)
+![image8](/images/622_8.jpg)

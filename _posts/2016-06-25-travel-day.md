@@ -12,12 +12,12 @@ At the last minute Enterprise Rental Cars *discovered* that they didn’t have t
 
 Now we are in Rouen at a very nice and spacious AirBnb. We enjoyed a bottle of delicious French wine with our hosts before they left. After our first French dining experience, the kids went on a long bike ride all around Rouen; they had been cooped up for two days. 
 
-![image1](images/625_1.jpg)
+![image1](/images/625_1.jpg)
 
-![image2](images/625_2.jpg)
+![image2](/images/625_2.jpg)
 
-![image3](images/625_3.jpg)
+![image3](/images/625_3.jpg)
 
-![image4](images/625_4.jpg)
+![image4](/images/625_4.jpg)
 
-![image5](images/625_5.jpg)
+![image5](/images/625_5.jpg)

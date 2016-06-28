@@ -12,16 +12,16 @@ A serendipitous conversation on the train sent us to a town we hadn't planned to
 
 This really is an appealing capital city. So many people outside walking, eating, cycling. There is so much energy here. There are big windows and pretty flowers growing out of the ubiquitous stone walls. It all makes me want to re-red *The Dubliners* by James Joyce (but not *Finnegan's Wake*.)
 
-![image1](images/day3-1.JPG)
+![image1](/images/day3-1.JPG)
 
-![image2](images/day3-2.JPG)
+![image2](/images/day3-2.JPG)
 
-![image3](images/day3-3.JPG)
+![image3](/images/day3-3.JPG)
 
-![image4](images/day3-4.jpg)
+![image4](/images/day3-4.jpg)
 
-![image5](images/day3-5.JPG)
+![image5](/images/day3-5.JPG)
 
-![image6](images/day3-6.jpg )
+![image6](/images/day3-6.jpg )
 
-![image7](images/day3-7.JPG)
+![image7](/images/day3-7.JPG)
