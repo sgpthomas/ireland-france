@@ -10,22 +10,22 @@ Have we really only been here for two days? It feels like a lot longer--things a
 
 One of my favorite times was at this great library with the children's art area, and they were all sprawled on the floor cushions, drawing with great concentration. 
 
-![image1](/images/day2-1.JPG)
+![image1](/ireland-france/images/day2-1.JPG)
 Dublin Castle
 
-![image2](/images/day2-2.JPG)
+![image2](/ireland-france/images/day2-2.JPG)
 Rooftop Garden
 
-![image3](/images/day2-3.JPG)
+![image3](/ireland-france/images/day2-3.JPG)
 
-![image4](/images/day2-4.JPG)
+![image4](/ireland-france/images/day2-4.JPG)
 Rooftop Garden Yoga
 
-![image5](/images/day2-5.JPG)
+![image5](/ireland-france/images/day2-5.JPG)
 Rooftop Garden Yoga
 
-![image6](/images/day2-6.JPG)
+![image6](/ireland-france/images/day2-6.JPG)
 
-![image7](/images/day2-7.JPG)
+![image7](/ireland-france/images/day2-7.JPG)
 
-![image8](/images/day2-8.JPG)
+![image8](/ireland-france/images/day2-8.JPG)

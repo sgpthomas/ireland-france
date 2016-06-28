@@ -18,14 +18,14 @@ The fish! It’s creamy, flavorful, tender, melt-in-your-mouth, and so fresh. We
 
 As we were cooking it, Clara and I sampled some and exclaimed in delighted suspense over the fireworks of flavor exploding in our mouths. This brought in Mame who immediately stuck a piece in her mouth. In turn, her moan of happiness attracted everyone else. As six people fought to eat the salmon, Clara was trying to shoo everyone away with her spatula. I was laughing hysterically, Mame was raving about the merits of the fish, and Dick, Katrina, and Sam were pushing and shoving each other trying to reach the pan.  It was like a pack of wild wolves fighting over a carcass! Once everyone settled down enough to sit, we enjoyed the Salmon, almost like normal, civilized human beings. 
 
-![image1](/images/623_1.jpg)
+![image1](/ireland-france/images/623_1.jpg)
 
-![image2](/images/623_2.jpg)
+![image2](/ireland-france/images/623_2.jpg)
 
-![image3](/images/623_3.jpg)
+![image3](/ireland-france/images/623_3.jpg)
 
-![image4](/images/623_4.jpg)
+![image4](/ireland-france/images/623_4.jpg)
 
-![image5](/images/623_5.jpg)
+![image5](/ireland-france/images/623_5.jpg)
 
-![image6](/images/623_6.jpg)
+![image6](/ireland-france/images/623_6.jpg)
