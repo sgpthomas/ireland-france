@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is love...
+title: What is love…
 description: "Group impressions of France"
 modified: 2016-06-30
 author: Everyone
